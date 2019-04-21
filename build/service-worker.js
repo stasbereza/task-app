@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/task-manager-app/build/precache-manifest.b95d763d0f8dfd36b67b88f7c81a3880.js"
+  "/task-manager-app/precache-manifest.73dbf7736db63574d31065c8182ab6ff.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/task-manager-app/build/index.html", {
+workbox.routing.registerNavigationRoute("/task-manager-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -69,7 +69,7 @@ class App extends Component {
     const { isLoading } = this.props;
 
     return (
-      <Router>
+      <Router basename="/task-manager-app">
         <AppBar>
           <Button onClick={this.handleOpenModal}>Create task</Button>
           <SortManager />
