@@ -1,13 +1,13 @@
 {
   "main.css": "/task-manager-app/static/css/main.fab9d8f3.chunk.css",
-  "main.js": "/task-manager-app/static/js/main.8721b6e5.chunk.js",
-  "main.js.map": "/task-manager-app/static/js/main.8721b6e5.chunk.js.map",
+  "main.js": "/task-manager-app/static/js/main.d7d894b0.chunk.js",
+  "main.js.map": "/task-manager-app/static/js/main.d7d894b0.chunk.js.map",
   "runtime~main.js": "/task-manager-app/static/js/runtime~main.cd887611.js",
   "runtime~main.js.map": "/task-manager-app/static/js/runtime~main.cd887611.js.map",
   "static/js/2.d4b0aec2.chunk.js": "/task-manager-app/static/js/2.d4b0aec2.chunk.js",
   "static/js/2.d4b0aec2.chunk.js.map": "/task-manager-app/static/js/2.d4b0aec2.chunk.js.map",
   "index.html": "/task-manager-app/index.html",
-  "precache-manifest.73dbf7736db63574d31065c8182ab6ff.js": "/task-manager-app/precache-manifest.73dbf7736db63574d31065c8182ab6ff.js",
+  "precache-manifest.a1d42dc96779c9a9ff58cdacf285d867.js": "/task-manager-app/precache-manifest.a1d42dc96779c9a9ff58cdacf285d867.js",
   "service-worker.js": "/task-manager-app/service-worker.js",
   "static/css/main.fab9d8f3.chunk.css.map": "/task-manager-app/static/css/main.fab9d8f3.chunk.css.map"
 }
