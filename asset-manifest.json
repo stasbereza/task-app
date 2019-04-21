@@ -1,0 +1,13 @@
+{
+  "main.css": "/task-manager-app/build/static/css/main.fab9d8f3.chunk.css",
+  "main.js": "/task-manager-app/build/static/js/main.8721b6e5.chunk.js",
+  "main.js.map": "/task-manager-app/build/static/js/main.8721b6e5.chunk.js.map",
+  "runtime~main.js": "/task-manager-app/build/static/js/runtime~main.4c27b5a7.js",
+  "runtime~main.js.map": "/task-manager-app/build/static/js/runtime~main.4c27b5a7.js.map",
+  "static/js/2.1227ead3.chunk.js": "/task-manager-app/build/static/js/2.1227ead3.chunk.js",
+  "static/js/2.1227ead3.chunk.js.map": "/task-manager-app/build/static/js/2.1227ead3.chunk.js.map",
+  "index.html": "/task-manager-app/build/index.html",
+  "precache-manifest.b95d763d0f8dfd36b67b88f7c81a3880.js": "/task-manager-app/build/precache-manifest.b95d763d0f8dfd36b67b88f7c81a3880.js",
+  "service-worker.js": "/task-manager-app/build/service-worker.js",
+  "static/css/main.fab9d8f3.chunk.css.map": "/task-manager-app/build/static/css/main.fab9d8f3.chunk.css.map"
+}
