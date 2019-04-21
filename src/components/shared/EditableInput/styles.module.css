@@ -1,0 +1,10 @@
+.actions {
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  width: 100%;
+  font-family: inherit;
+  resize: none;
+}

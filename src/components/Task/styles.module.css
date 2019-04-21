@@ -1,0 +1,24 @@
+@value primary-dark-color from '../../theme/colors.css';
+
+.task {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.text {
+  margin: 0;
+  margin-bottom: 8px;
+  color: primary-dark-color;
+}
